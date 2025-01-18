@@ -28,7 +28,9 @@ namespace CursoUIApi
                 Menu MyMenu = new Menu();
                 MyMenu.AddMenuItems();
                 oApp.RegisterMenuEventHandler(MyMenu.SBO_Application_MenuEvent);
-                Application.SBO_Application.AppEvent += new SAPbouiCOM._IApplicationEvents_AppEventEventHandler(SBO_Application_AppEvent);
+
+                new Events();
+
                 oApp.Run();
             }
             catch (Exception ex)
@@ -37,25 +39,6 @@ namespace CursoUIApi
             }
         }
 
-        static void SBO_Application_AppEvent(SAPbouiCOM.BoAppEventTypes EventType)
-        {
-            switch (EventType)
-            {
-                case SAPbouiCOM.BoAppEventTypes.aet_ShutDown:
-                    //Exit Add-On
-                    System.Windows.Forms.Application.Exit();
-                    break;
-                case SAPbouiCOM.BoAppEventTypes.aet_CompanyChanged:
-                    break;
-                case SAPbouiCOM.BoAppEventTypes.aet_FontChanged:
-                    break;
-                case SAPbouiCOM.BoAppEventTypes.aet_LanguageChanged:
-                    break;
-                case SAPbouiCOM.BoAppEventTypes.aet_ServerTerminition:
-                    break;
-                default:
-                    break;
-            }
-        }
+       
     }
 }

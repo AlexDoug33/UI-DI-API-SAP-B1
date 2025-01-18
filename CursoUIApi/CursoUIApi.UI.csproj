@@ -91,10 +91,12 @@
     <Reference Include="SAPBusinessOneSDK" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SboDocumentForm.cs" />
     <None Include="app.config" />
     <None Include="Form1.b1f">
       <FormCategory>UserForm</FormCategory>
     </None>
+    <Compile Include="Events.cs" />
     <Compile Include="Form1.b1f.cs">
       <DependentUpon>Form1.b1f</DependentUpon>
     </Compile>

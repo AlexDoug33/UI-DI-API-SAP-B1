@@ -74,6 +74,11 @@ namespace CursoUIApi
                     FormPedidos activeForm = new FormPedidos();
                     activeForm.Show();
                 }
+                else if (pVal.BeforeAction && pVal.MenuUID == SboDocumentForm.UniqueIDs.testeRightClick)
+                {
+                    var form = Application.SBO_Application.Forms.ActiveForm;
+                    SboDocumentForm.BtnBotaoTesteClick(form);
+                }
             }
             catch (Exception ex)
             {
