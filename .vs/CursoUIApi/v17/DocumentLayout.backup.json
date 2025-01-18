@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0627C3B5-E0D5-4511-A0C4-D18D0BB4EA01}|CursoUIApi\\CursoUIApi.UI.csproj|D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\cursouiapi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627C3B5-E0D5-4511-A0C4-D18D0BB4EA01}|CursoUIApi\\CursoUIApi.UI.csproj|solutionrelative:cursouiapi\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCA4EC9-ACB6-4EA6-96EA-0E6E3BC54C77}|CursoUIApi.DI\\CursoUIApi.DI.csproj|d:\\dev projetos_codigos\\dev\\dev\\cursouiapi\\cursouiapi.di\\services\\faturamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCA4EC9-ACB6-4EA6-96EA-0E6E3BC54C77}|CursoUIApi.DI\\CursoUIApi.DI.csproj|solutionrelative:cursouiapi.di\\services\\faturamentoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE127FD-4E5C-4BA6-8551-CB3C0E00ABBB}|SupportFramework\\Support.Framework.csproj|d:\\dev projetos_codigos\\dev\\dev\\cursouiapi\\supportframework\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE127FD-4E5C-4BA6-8551-CB3C0E00ABBB}|SupportFramework\\Support.Framework.csproj|solutionrelative:supportframework\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE127FD-4E5C-4BA6-8551-CB3C0E00ABBB}|SupportFramework\\Support.Framework.csproj|d:\\dev projetos_codigos\\dev\\dev\\cursouiapi\\supportframework\\menukeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE127FD-4E5C-4BA6-8551-CB3C0E00ABBB}|SupportFramework\\Support.Framework.csproj|solutionrelative:supportframework\\menukeys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE127FD-4E5C-4BA6-8551-CB3C0E00ABBB}|SupportFramework\\Support.Framework.csproj|d:\\dev projetos_codigos\\dev\\dev\\cursouiapi\\supportframework\\uicompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE127FD-4E5C-4BA6-8551-CB3C0E00ABBB}|SupportFramework\\Support.Framework.csproj|solutionrelative:supportframework\\uicompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627C3B5-E0D5-4511-A0C4-D18D0BB4EA01}|CursoUIApi\\CursoUIApi.UI.csproj|D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\cursouiapi\\formpedidos.b1f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627C3B5-E0D5-4511-A0C4-D18D0BB4EA01}|CursoUIApi\\CursoUIApi.UI.csproj|solutionrelative:cursouiapi\\formpedidos.b1f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCA4EC9-ACB6-4EA6-96EA-0E6E3BC54C77}|CursoUIApi.DI\\CursoUIApi.DI.csproj|d:\\dev projetos_codigos\\dev\\dev\\cursouiapi\\cursouiapi.di\\myquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCA4EC9-ACB6-4EA6-96EA-0E6E3BC54C77}|CursoUIApi.DI\\CursoUIApi.DI.csproj|solutionrelative:cursouiapi.di\\myquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCA4EC9-ACB6-4EA6-96EA-0E6E3BC54C77}|CursoUIApi.DI\\CursoUIApi.DI.csproj|d:\\dev projetos_codigos\\dev\\dev\\cursouiapi\\cursouiapi.di\\model\\documentolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCA4EC9-ACB6-4EA6-96EA-0E6E3BC54C77}|CursoUIApi.DI\\CursoUIApi.DI.csproj|solutionrelative:cursouiapi.di\\model\\documentolinha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFCA4EC9-ACB6-4EA6-96EA-0E6E3BC54C77}|CursoUIApi.DI\\CursoUIApi.DI.csproj|d:\\dev projetos_codigos\\dev\\dev\\cursouiapi\\cursouiapi.di\\model\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFCA4EC9-ACB6-4EA6-96EA-0E6E3BC54C77}|CursoUIApi.DI\\CursoUIApi.DI.csproj|solutionrelative:cursouiapi.di\\model\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0627C3B5-E0D5-4511-A0C4-D18D0BB4EA01}|CursoUIApi\\CursoUIApi.UI.csproj|D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\cursouiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0627C3B5-E0D5-4511-A0C4-D18D0BB4EA01}|CursoUIApi\\CursoUIApi.UI.csproj|solutionrelative:cursouiapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Util.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\SupportFramework\\Util.cs",
+              "RelativeDocumentMoniker": "SupportFramework\\Util.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\SupportFramework\\Util.cs",
+              "RelativeToolTip": "SupportFramework\\Util.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:21:24.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UICompany.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\SupportFramework\\UICompany.cs",
+              "RelativeDocumentMoniker": "SupportFramework\\UICompany.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\SupportFramework\\UICompany.cs",
+              "RelativeToolTip": "SupportFramework\\UICompany.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:19:55.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuKeys.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\SupportFramework\\MenuKeys.cs",
+              "RelativeDocumentMoniker": "SupportFramework\\MenuKeys.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\SupportFramework\\MenuKeys.cs",
+              "RelativeToolTip": "SupportFramework\\MenuKeys.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:19:11.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyQuery.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi.DI\\MyQuery.cs",
+              "RelativeDocumentMoniker": "CursoUIApi.DI\\MyQuery.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi.DI\\MyQuery.cs",
+              "RelativeToolTip": "CursoUIApi.DI\\MyQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:12:20.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocumentoLinha.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi.DI\\Model\\DocumentoLinha.cs",
+              "RelativeDocumentMoniker": "CursoUIApi.DI\\Model\\DocumentoLinha.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi.DI\\Model\\DocumentoLinha.cs",
+              "RelativeToolTip": "CursoUIApi.DI\\Model\\DocumentoLinha.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:11:52.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Documento.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi.DI\\Model\\Documento.cs",
+              "RelativeDocumentMoniker": "CursoUIApi.DI\\Model\\Documento.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi.DI\\Model\\Documento.cs",
+              "RelativeToolTip": "CursoUIApi.DI\\Model\\Documento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T22:11:03.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormPedidos.b1f.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi\\FormPedidos.b1f.cs",
+              "RelativeDocumentMoniker": "CursoUIApi\\FormPedidos.b1f.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi\\FormPedidos.b1f.cs",
+              "RelativeToolTip": "CursoUIApi\\FormPedidos.b1f.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:23:42.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi\\Program.cs",
+              "RelativeDocumentMoniker": "CursoUIApi\\Program.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi\\Program.cs",
+              "RelativeToolTip": "CursoUIApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T19:20:09.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FaturamentoService.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi.DI\\Services\\FaturamentoService.cs",
+              "RelativeDocumentMoniker": "CursoUIApi.DI\\Services\\FaturamentoService.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi.DI\\Services\\FaturamentoService.cs",
+              "RelativeToolTip": "CursoUIApi.DI\\Services\\FaturamentoService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowEAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:33:52.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi\\Menu.cs",
+              "RelativeDocumentMoniker": "CursoUIApi\\Menu.cs",
+              "ToolTip": "D:\\DEV PROJETOS_CODIGOS\\Dev\\Dev\\CursoUIApi\\CursoUIApi\\Menu.cs",
+              "RelativeToolTip": "CursoUIApi\\Menu.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T18:42:24.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

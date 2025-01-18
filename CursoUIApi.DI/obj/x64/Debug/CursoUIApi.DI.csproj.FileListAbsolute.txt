@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi.DI\bin\x64\Debug\CursoUIApi.DI.dll
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi.DI\bin\x64\Debug\CursoUIApi.DI.pdb
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi.DI\obj\x64\Debug\CursoUIApi.DI.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi.DI\obj\x64\Debug\CursoUIApi.DI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi.DI\obj\x64\Debug\CursoUIApi.DI.dll
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi.DI\obj\x64\Debug\CursoUIApi.DI.pdb
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\bin\x64\Debug\CursoUIApi.DI.dll
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\bin\x64\Debug\CursoUIApi.DI.pdb
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\bin\x64\Debug\SAPBusinessOneSDK.dll
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\bin\x64\Debug\Support.Framework.dll
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\bin\x64\Debug\Support.Framework.pdb
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\obj\x64\Debug\CursoUIApi.DI.csproj.CoreCompileInputs.cache
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\obj\x64\Debug\CursoUIApi.DI.csproj.CopyComplete
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\obj\x64\Debug\CursoUIApi.DI.dll
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi.DI\obj\x64\Debug\CursoUIApi.DI.pdb

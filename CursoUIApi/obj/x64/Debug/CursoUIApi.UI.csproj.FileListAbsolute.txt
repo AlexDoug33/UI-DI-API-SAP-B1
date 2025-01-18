@@ -1,0 +1,23 @@
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.UI.exe.config
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.UI.exe
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.UI.pdb
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.DI.dll
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.DI.pdb
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.csproj.CopyComplete
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.exe
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.pdb
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.UI.exe.config
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.UI.exe
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.UI.pdb
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.DI.dll
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\SAPBusinessOneSDK.dll
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\Support.Framework.dll
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\CursoUIApi.DI.pdb
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\bin\x64\Debug\Support.Framework.pdb
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.csproj.AssemblyReference.cache
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.csproj.CoreCompileInputs.cache
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.csproj.CopyComplete
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.exe
+D:\DEV PROJETOS_CODIGOS\Dev\Dev\CursoUIApi\CursoUIApi\obj\x64\Debug\CursoUIApi.UI.pdb

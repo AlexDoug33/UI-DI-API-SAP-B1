@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\bin\Debug\CursoUIApi.exe
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\bin\Debug\CursoUIApi.pdb
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\Debug\CursoUIApi.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\Debug\CursoUIApi.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\Debug\CursoUIApi.exe
+C:\Users\Alex\Desktop\Dev\CursoUIApi\CursoUIApi\obj\Debug\CursoUIApi.pdb
